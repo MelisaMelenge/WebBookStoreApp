@@ -1,0 +1,47 @@
+[
+    {
+        "title": "The Catcher in the Rye",
+        "author": "J.D. Salinger",
+        "isbn": "9780316769488",
+        "price": 10.99,
+        "description": "A story about teenage rebellion and angst.",
+        "category": "Fiction",
+        "stock": 15
+    },
+    {
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "isbn": "9780061120084",
+        "price": 7.99,
+        "description": "A novel about the serious issues of rape and racial inequality.",
+        "category": "Fiction",
+        "stock": 10
+    },
+    {
+        "title": "1984",
+        "author": "George Orwell",
+        "isbn": "9780451524935",
+        "price": 9.99,
+        "description": "A dystopian novel set in a totalitarian society ruled by Big Brother.",
+        "category": "Science Fiction",
+        "stock": 20
+    },
+    {
+        "title": "Moby-Dick",
+        "author": "Herman Melville",
+        "isbn": "9781503280786",
+        "price": 11.99,
+        "description": "The narrative of Captain Ahab's obsessive quest to kill the white whale, Moby-Dick.",
+        "category": "Adventure",
+        "stock": 5
+    },
+    {
+        "title": "Pride and Prejudice",
+        "author": "Jane Austen",
+        "isbn": "9781503290563",
+        "price": 8.99,
+        "description": "A romantic novel that charts the emotional development of the protagonist, Elizabeth Bennet.",
+        "category": "Romance",
+        "stock": 12
+    }
+]

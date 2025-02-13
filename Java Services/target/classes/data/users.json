@@ -1,0 +1,37 @@
+[
+    {
+        "id" : 1,
+        "name" : "melisa",
+        "nickname" : "meli",
+        "password" : "Meli123",
+        "email" : "mel@gmail.com"
+    },
+    {
+        "id" : 2,
+        "name" : "alejandro",
+        "nickname" : "alejo",
+        "password" : "lol123",
+        "email" : "ale@gmail.com"
+    },
+    {
+        "id" : 3,
+        "name" : "david",
+        "nickname" : "larococo",
+        "password" : "santafe",
+        "email" : "larococo@gmail.com"
+    },
+    {
+        "id" : 4,
+        "name" : "laura",
+        "nickname" : "samantha",
+        "password" : "genshin",
+        "email" : "laura@gmail.com"
+    },
+    {
+        "id" : 5,
+        "name" : "pilar",
+        "nickname" : "pilarica",
+        "password" : "piliuwu",
+        "email" : "pilar@gmail.com"
+    }
+]
